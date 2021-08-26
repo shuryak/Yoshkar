@@ -2,12 +2,18 @@
     "name": "shuryak/yoshkar",
     "description": "Web framework with an idea from Mari El",
     "type": "library",
-    "license": "GPL-3.0 License",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "Shuryak\\Yoshkar\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Alexander Konovalov",
             "email": "shuryak@protonmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
