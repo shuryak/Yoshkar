@@ -1,0 +1,13 @@
+{
+    "name": "shuryak/yoshkar",
+    "description": "Web framework with an idea from Mari El",
+    "type": "library",
+    "license": "GPL-3.0 License",
+    "authors": [
+        {
+            "name": "Alexander Konovalov",
+            "email": "shuryak@protonmail.com"
+        }
+    ],
+    "require": {}
+}
